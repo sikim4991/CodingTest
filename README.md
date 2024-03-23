@@ -1,2 +1,2 @@
-# Baekjoon
+# CodingTest
 CodingTest
